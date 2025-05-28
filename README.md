@@ -2,6 +2,12 @@
 
 A modern Android application for matrimonial matchmaking, built with clean architecture principles and modern Android development practices.
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ze0uRZQAE-A">
+    <img src="https://img.youtube.com/vi/ze0uRZQAE-A/0.jpg" alt="Watch the demo" />
+  </a>
+</div>
+
 ## Features
 
 - **Profile Browsing**: View potential matches with detailed profiles
